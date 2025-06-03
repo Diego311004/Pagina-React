@@ -1,0 +1,86 @@
+/* Estilos generales del contenedor de la página de inicio */
+.homepage-container {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  color: #333;
+  background-color: #f4f7f6; /* Un gris muy claro para el fondo */
+  min-height: 100vh; /* Asegura que ocupe al menos toda la altura de la vista */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Espacia el header, content y footer */
+  padding: 20px;
+  box-sizing: border-box; /* Incluye padding en el tamaño total */
+}
+
+/* Estilos del encabezado */
+.homepage-header {
+  background-color: #28a745; /* Verde vibrante */
+  color: white;
+  padding: 40px 20px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.homepage-header h1 {
+  margin-top: 0;
+  font-size: 2.8em; /* Título más grande */
+  margin-bottom: 10px;
+}
+
+.homepage-header p {
+  font-size: 1.2em;
+  opacity: 0.9;
+}
+
+/* Estilos del contenido principal */
+.homepage-content {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  margin-bottom: 30px;
+  flex-grow: 1; /* Permite que el contenido ocupe el espacio disponible */
+}
+
+.homepage-content h2 {
+  color: #28a745;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.homepage-content p {
+  line-height: 1.6;
+  margin-bottom: 25px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Estilos del botón de llamada a la acción */
+.call-to-action-button {
+  background-color: #007bff; /* Azul brillante */
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1.1em;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-decoration: none; /* Por si lo haces un enlace después */
+  display: inline-block; /* Para que el padding y margin funcionen correctamente */
+}
+
+.call-to-action-button:hover {
+  background-color: #0056b3; /* Azul más oscuro al pasar el ratón */
+}
+
+/* Estilos del pie de página */
+.homepage-footer {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #333; /* Gris oscuro */
+  color: white;
+  border-radius: 8px;
+  font-size: 0.9em;
+}
