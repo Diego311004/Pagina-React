@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Diego311004/Pagina-React.git/static/css/main.bee706bb.css",
-    "main.js": "/Diego311004/Pagina-React.git/static/js/main.e30f1dff.js",
-    "static/js/453.64d2f250.chunk.js": "/Diego311004/Pagina-React.git/static/js/453.64d2f250.chunk.js",
-    "index.html": "/Diego311004/Pagina-React.git/index.html",
-    "main.bee706bb.css.map": "/Diego311004/Pagina-React.git/static/css/main.bee706bb.css.map",
-    "main.e30f1dff.js.map": "/Diego311004/Pagina-React.git/static/js/main.e30f1dff.js.map",
-    "453.64d2f250.chunk.js.map": "/Diego311004/Pagina-React.git/static/js/453.64d2f250.chunk.js.map"
+    "main.css": "/Pagina-React/static/css/main.bee706bb.css",
+    "main.js": "/Pagina-React/static/js/main.e9fa253a.js",
+    "static/js/453.64d2f250.chunk.js": "/Pagina-React/static/js/453.64d2f250.chunk.js",
+    "index.html": "/Pagina-React/index.html",
+    "main.bee706bb.css.map": "/Pagina-React/static/css/main.bee706bb.css.map",
+    "main.e9fa253a.js.map": "/Pagina-React/static/js/main.e9fa253a.js.map",
+    "453.64d2f250.chunk.js.map": "/Pagina-React/static/js/453.64d2f250.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bee706bb.css",
-    "static/js/main.e30f1dff.js"
+    "static/js/main.e9fa253a.js"
   ]
 }
